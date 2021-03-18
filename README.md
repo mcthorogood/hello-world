@@ -1,3 +1,4 @@
 # hello-world
-2016 San Francisco PyData
+installed openssh-server
+ps ax | grep sshd    # verify sshd running
 
